@@ -1,35 +1,35 @@
 ### NetBeans ###
-nbproject/private/
-build/
-nbbuild/
-dist/
-nbdist/
+nbproject\private\
+build\
+nbbuild\
+dist\
+nbdist\
 nbactions.xml
 nb-configuration.xml
 
 ### Intellij ###
 *.iml
-/out/
-.idea/
+\out\
+.idea\
 *.ipr
 *.iws
 
 ### Eclipse ###
 .metadata
-bin/
-tmp/
+bin\
+tmp\
 *.tmp
 *.bak
 *.swp
 *~.nib
 local.properties
-.settings/
+.settings\
 .loadpath
 .project
 .classpath
 
 ### Maven ###
-target/
+target\
 
 ### Temps ###
 .project~
